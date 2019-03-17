@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcronymFromPhrase", "AcronymFromPhrase\AcronymFromPhrase.csproj", "{8CB5F206-809E-42C3-A658-7B078DFFFD96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcronymFromPhrase.Tests", "AcronymFromPhrase.Tests\AcronymFromPhrase.Tests.csproj", "{1CD930AA-2FE3-47C2-8345-D5FED97FDCFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB5F206-809E-42C3-A658-7B078DFFFD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB5F206-809E-42C3-A658-7B078DFFFD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB5F206-809E-42C3-A658-7B078DFFFD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB5F206-809E-42C3-A658-7B078DFFFD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD930AA-2FE3-47C2-8345-D5FED97FDCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD930AA-2FE3-47C2-8345-D5FED97FDCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD930AA-2FE3-47C2-8345-D5FED97FDCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD930AA-2FE3-47C2-8345-D5FED97FDCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

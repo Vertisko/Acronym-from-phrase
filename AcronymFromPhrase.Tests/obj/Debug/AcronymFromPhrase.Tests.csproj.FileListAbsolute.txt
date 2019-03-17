@@ -1,0 +1,11 @@
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/bin/Debug/AcronymFromPhrase.Tests.dll
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/bin/Debug/AcronymFromPhrase.Tests.pdb
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/bin/Debug/AcronymFromPhrase.dll
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/bin/Debug/nunit.framework.dll
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/bin/Debug/AcronymFromPhrase.pdb
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/bin/Debug/nunit.framework.xml
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/obj/Debug/AcronymFromPhrase.Tests.csprojAssemblyReference.cache
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/obj/Debug/AcronymFromPhrase.Tests.csproj.CoreCompileInputs.cache
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/obj/Debug/AcronymFromPhrase.Tests.csproj.CopyComplete
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/obj/Debug/AcronymFromPhrase.Tests.dll
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase.Tests/obj/Debug/AcronymFromPhrase.Tests.pdb

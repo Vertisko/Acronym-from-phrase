@@ -1,0 +1,6 @@
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase/bin/Debug/AcronymFromPhrase.dll
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase/bin/Debug/AcronymFromPhrase.pdb
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase/obj/Debug/AcronymFromPhrase.csprojAssemblyReference.cache
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase/obj/Debug/AcronymFromPhrase.csproj.CoreCompileInputs.cache
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase/obj/Debug/AcronymFromPhrase.dll
+/Users/davidkakis/RiderProjects/AcronymFromPhrase/AcronymFromPhrase/obj/Debug/AcronymFromPhrase.pdb
